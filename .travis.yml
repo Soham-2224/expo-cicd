@@ -39,3 +39,5 @@ jobs:
         paths:
           - app-release.apk
       if: branch = main
+
+
